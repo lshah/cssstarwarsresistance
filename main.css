@@ -119,7 +119,7 @@ h1 {
 }
 
 #left-triangle {
-	position: fixed;
+	position: absolute;
 	width: 0;
 	height: 5px;
 	border-top: 4px solid transparent;
@@ -132,7 +132,7 @@ h1 {
 }
 
 #right-triangle {
-	position: fixed;
+	position: absolute;
 	width: 0;
 	height: 5px;
 	border-top: 4px solid transparent;
@@ -173,3 +173,4 @@ p {
 	letter-spacing: 5px;
 	margin-left: 15%;
 }
+
